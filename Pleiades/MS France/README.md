@@ -29,8 +29,10 @@ Mac OS: Tahoe 26.3; Matlab R2018b Update 8 <br />
 4 check the band order <br />
 5 writing single bands to file <br />
 
-RGB = (red/green/blue) and CIR  = (NIR/red/green) 
+Examples
+----------------------------------------------
 
+RGB = (red/green/blue) and CIR  = (NIR/red/green) 
 
 | RGB      | CIR      |
 |------------|-------------|
