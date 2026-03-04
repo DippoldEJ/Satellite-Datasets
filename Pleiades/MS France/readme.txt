@@ -28,4 +28,4 @@ Mac OS: Tahoe 26.3; Matlab R2018b Update 8
 4 %% Check the band order
 5 %% writing single bands to file
 
-
+![Image](https://github.com/user-attachments/assets/1591557f-53b5-4ca2-b45a-bf3fe3835be2)
