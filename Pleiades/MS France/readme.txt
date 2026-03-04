@@ -28,5 +28,5 @@ Mac OS: Tahoe 26.3; Matlab R2018b Update 8
 4 %% Check the band order
 5 %% writing single bands to file
 
-`![alt text](/Preprocessed/red8.jpg)`
+![alt text](/Preprocessed/red8.jpg)
 
