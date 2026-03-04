@@ -21,6 +21,7 @@ Source: DIM_PHR1B_MS_202404231033373_SEN_6979456101-2.XML
 
 
 Short Explanation FranceMS_PrePro.m <br />
+-------------------------------------------
 Mac OS: Tahoe 26.3; Matlab R2018b Update 8 <br />
 1 read in the file from the directory <br />
 2 extraction of the single bands <br />
