@@ -14,25 +14,40 @@ The dataset can be officially download here:
 https://earth.esa.int/eogateway/missions/pleiades/sample-data
 Last checked: 01. March 2026
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-     crossorigin=""/>
-     
- <!-- Make sure you put this AFTER Leaflet's CSS -->
- <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-     crossorigin=""></script>
-     
- <div id="map"></div>     
-
- #map { height: 180px; }
-
- var map = L.map('map').setView([51.505, -0.09], 13);
-
- L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-}).addTo(map);
+```topojson
+{
+  "type": "Topology",
+  "transform": {
+    "scale": [0.0005000500050005, 0.00010001000100010001],
+    "translate": [100, 0]
+  },
+  "objects": {
+    "example": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "properties": {"prop0": "value0"},
+          "coordinates": [4000, 5000]
+        },
+        {
+          "type": "LineString",
+          "properties": {"prop0": "value0", "prop1": 0},
+          "arcs": [0]
+        },
+        {
+          "type": "Polygon",
+          "properties": {"prop0": "value0",
+            "prop1": {"this": "that"}
+          },
+          "arcs": [[1]]
+        }
+      ]
+    }
+  },
+  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
+}
+```
 
 Metadata
 -------------------------------------------
