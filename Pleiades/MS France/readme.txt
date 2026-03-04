@@ -28,7 +28,7 @@ Mac OS: Tahoe 26.3; Matlab R2018b Update 8
 4 %% Check the band order
 5 %% writing single bands to file
 
-![alt text](https://github.com/DippoldEJ/Satellite-Datasets/tree/main/Pleiades/MSFrance/Preprocessed/red8.jpg) 
+![alt text](https://github.com/DippoldEJ/Satellite-Datasets/tree/main/Pleiades/MS France/Preprocessed/red8.jpg) 
 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
