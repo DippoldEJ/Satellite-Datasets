@@ -11,7 +11,7 @@ Table:
 Multispectral Metadata Summary. The Production Date is important if you want to take seasonal changes into consideration. 
 The incidence angel matters if you are working on geometric operations. Finally, the band order knowledge to compose images like true colour (RGB). 
 
-| Metadata                                                           |
+| Metadata                      |                                    |
 | ----------------------------- | ---------------------------------- |
 | Production Date               |  2024-04-29  17: 58: 02. 686       |
 | Incidence Angle Alonge Track  |  -10.64663824814489                |
