@@ -14,7 +14,7 @@ The dataset can be officially download here:
 https://earth.esa.int/eogateway/missions/pleiades/sample-data
 Last checked: 01. March 2026
 
-
+<img width="1419" height="401" alt="Image" src="https://github.com/user-attachments/assets/bd7c92fa-102c-48a1-b720-12f964bb4083" />
 
 Metadata
 -------------------------------------------
