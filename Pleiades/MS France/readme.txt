@@ -10,3 +10,4 @@ Last checked: 01. Mrach 2026
 Table: 
 Multispectral Metadata Summary. The Production Date is important if you want to take seasonal changes into consideration. 
 The incidence angel matters if you are working on geometric operations. Finally, the band order knowledge to compose images like true colour (RGB). 
+Source: DIM_PHR1B_MS_202404231033373_SEN_6979456101-2.XML
