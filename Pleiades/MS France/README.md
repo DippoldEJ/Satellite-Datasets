@@ -19,6 +19,8 @@ Source: DIM_PHR1B_MS_202404231033373_SEN_6979456101-2.XML
 | Incidence Angle Across Track | 16.68971922285316               |
 | Chanel order                 | Red | Green | Blue | Alpha (NIR)|
 | ---------------------------------------------------------------|
+Source: DIM_PHR1B_MS_202404231033373_SEN_6979456101-2.XML
+
 
 Short Explanation FranceMS_PrePro.m
 Mac OS: Tahoe 26.3; Matlab R2018b Update 8
