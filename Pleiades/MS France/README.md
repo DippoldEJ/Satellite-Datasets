@@ -15,8 +15,8 @@ The incidence angel matters if you are working on geometric operations. Finally,
 | ----------------------------- | ---------------------------------- |
 | Production Date               |  2024-04-29  17: 58: 02. 686       |
 | Incidence Angle Alonge Track  |  -10.64663824814489                |
-| Incidence Angle Alonge Track  |  -10.64663824814489                |
-| Incidence Angle Alonge Track  |  -10.64663824814489                |
+| Incidence Angle Across Track  |  16.68971922285316                 |
+| Chanel order                  | Red, Green, Blue, Alpha (NIR)      |
 
 | Metadata                     | Value                           |
 | -------------------------------------------------------------- |
