@@ -30,11 +30,7 @@ Mac OS: Tahoe 26.3; Matlab R2018b Update 8
 
 RGB (red/green/blue) and CIR (NIR/red/green)
 
-![Image](https://github.com/user-attachments/assets/a93bf872-9d49-4383-b047-d2efb7e3af4e)
 
-![Image](https://github.com/user-attachments/assets/4105795c-4111-4db1-b3a0-b5db5681b120)
-
-<img width="645" height="708" alt="Image" src="https://github.com/user-attachments/assets/e221cd29-86b0-4f05-a58d-0b2194005893" />
 
 
 
