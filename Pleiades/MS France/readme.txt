@@ -34,4 +34,4 @@ RGB (red/green/blue) and CIR (NIR/red/green)
 
 ![Image](https://github.com/user-attachments/assets/4105795c-4111-4db1-b3a0-b5db5681b120)
 
-![screenshot](Preprossed/NIR8.jpg)
+![screenshot](Preprocessed/NIR8.jpg)
