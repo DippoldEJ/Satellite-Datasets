@@ -33,7 +33,7 @@ RGB = (red/green/blue) and CIR  = (NIR/red/green)
 
 | RGB      | CIR      |
 |------------|-------------|
-| <img width="460" height="400" alt="Image" src="https://github.com/user-attachments/assets/b2290b1f-0a98-405e-88a2-4a67ff8351e1" />| <img width="460" height="400" alt="Image" src="https://github.com/user-attachments/assets/1702c409-8246-4638-b22b-a9738d10ea2f" /> |
+| <img width="460" height="400" alt="Image" src="https://github.com/user-attachments/assets/36bdf1b6-42b9-4a5a-9feb-f62965e03d2e" />| <img width="460" height="400" alt="Image" src="https://github.com/user-attachments/assets/359007fd-bb31-4c16-b180-040ca5eb21d6" /> |
 
 | NIR      | Red      | Green      | Blue      |
 |------------|-------------|------------|-------------|
