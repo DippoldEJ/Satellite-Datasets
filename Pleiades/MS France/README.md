@@ -34,7 +34,7 @@ RGB (red/green/blue) and CIR (NIR/red/green)
 | RGB      | CIR      |
 |------------|-------------|
 | <img width="300" height="400" alt="Image" src="https://github.com/user-attachments/assets/d99ec4a5-2ee5-406a-b1b2-66ac0966a596" />| <img width="300" height="400" alt="Image" src="https://github.com/user-attachments/assets/a62c67c2-7eb0-4305-b679-105ad29e1a89" /> |
-| RGB      | CIR      |
-|------------|-------------|
+| RGB      | CIR      | RGB      | CIR      |
+
 
 
