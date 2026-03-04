@@ -23,7 +23,6 @@ Source: DIM_PHR1B_MS_202404231033373_SEN_6979456101-2.XML
 Short Explanation FranceMS_PrePro.m
 Mac OS: Tahoe 26.3; Matlab R2018b Update 8
 1 read in the file from the directory
-
 2 extraction of the single bands
 3 from 16 to 8 bits (image depth)
 4 check the band order
