@@ -20,7 +20,4 @@ Source: DIM_PHR1B_MS_202404231033373_SEN_6979456101-2.XML
 | Chanel order                 | Red | Green | Blue | Alpha (NIR)|
 | ---------------------------------------------------------------|
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+
