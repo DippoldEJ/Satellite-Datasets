@@ -34,12 +34,4 @@ RGB (red/green/blue) and CIR (NIR/red/green)
 
 ![Image](https://github.com/user-attachments/assets/4105795c-4111-4db1-b3a0-b5db5681b120)
 
-<img src="https://github.com/DippoldEJ/Satellite-Datasets/blob/main/Pleiades/MS%20France/Preprocessed/nir8.jpg" alt="My cool logo"/>
 
-![](https://github.com/DippoldEJ/Satellite-Datasets/blob/main/Pleiades/MS%20France/Preprocessed/nir8.jpg)
-
-| col 1      | col 2      |
-|------------|-------------|
-| <img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg" width="250"> | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250"> |
-
-<img width="706" height="189" alt="Image" src="https://github.com/user-attachments/assets/ce1c652b-78b8-4a0c-ba59-f86d5b27f89d" />
