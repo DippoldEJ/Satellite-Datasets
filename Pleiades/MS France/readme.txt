@@ -34,4 +34,7 @@ RGB (red/green/blue) and CIR (NIR/red/green)
 
 ![Image](https://github.com/user-attachments/assets/4105795c-4111-4db1-b3a0-b5db5681b120)
 
-
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
