@@ -34,13 +34,4 @@ RGB (red/green/blue) and CIR (NIR/red/green)
 
 ![Image](https://github.com/user-attachments/assets/4105795c-4111-4db1-b3a0-b5db5681b120)
 
-https://github.com/DippoldEJ/Satellite-Datasets/blob/main/Pleiades/MS%20France/Preprocessed/nir8.jpg
-
-<br>
-<img width="645" height="708" alt="Image" src="https://github.com/user-attachments/assets/ab229539-0fdb-488a-8431-cc3f9c4d5e98" />
-<br>
-
-<br>
-<img height="350" src="https://github.com/DippoldEJ/Satellite-Datasets/blob/main/Pleiades/MS%20France/Preprocessed/nir8.jpg" />
-<br>
 
