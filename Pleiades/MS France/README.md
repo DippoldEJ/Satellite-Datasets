@@ -35,8 +35,9 @@ Example
 
 | col 1      | col 2      |
 |------------|-------------|
-| <img width="647" height="711" alt="Image" src="https://github.com/user-attachments/assets/d99ec4a5-2ee5-406a-b1b2-66ac0966a596" />
-| <img width="645" height="708" alt="Image" src="https://github.com/user-attachments/assets/a62c67c2-7eb0-4305-b679-105ad29e1a89" /> |
+| <img width="300" height="400" alt="Image" src="https://github.com/user-attachments/assets/d99ec4a5-2ee5-406a-b1b2-66ac0966a596" />
+| <img width="300" height="400" alt="Image" src="https://github.com/user-attachments/assets/a62c67c2-7eb0-4305-b679-105ad29e1a89" /> |
 
 
-
+img width="647" height="711"
+width="645" height="708
