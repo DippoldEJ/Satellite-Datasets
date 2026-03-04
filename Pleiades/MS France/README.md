@@ -17,7 +17,7 @@ The incidence angel matters if you are working on geometric operations. Finally,
 | Incidence Angle Alonge Track  |  -10.64663824814489                |
 | Incidence Angle Across Track  |  16.68971922285316                 |
 | Chanel order                  | Red, Green, Blue, Alpha (NIR)      |
-Source: DIM_PHR1B_MS_202404231033373_SEN_6979456101-2.XML            |
+Source: DIM_PHR1B_MS_202404231033373_SEN_6979456101-2.XML            
 
 
 Short Explanation FranceMS_PrePro.m
