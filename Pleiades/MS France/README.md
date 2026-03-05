@@ -2,7 +2,7 @@
 The Application of MS France Dataset for Feature Detection and Study
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
-Strucutre: <br />
+Structure: <br />
 Area of Interest (AOI) <br />
 Feature and Edge Detection <br />
 AOI and Composite Images <br />
