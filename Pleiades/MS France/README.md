@@ -17,3 +17,6 @@ Text
 AOI and Edge Detection
 -------------------------
 Text
+
+References
+------------------------
