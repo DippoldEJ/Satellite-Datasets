@@ -15,6 +15,9 @@ Area of Interest (AOI)
 --------------------
 Text
 
+|Urban| Suburban| Rural| Miscellaneous|
+----------------------------------------
+
 Feature and Edge Detection
 --------------------
 Text
