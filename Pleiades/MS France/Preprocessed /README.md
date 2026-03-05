@@ -9,7 +9,7 @@ As a result, Pléiades is a satellite with very-high resolution (VHR) imagery.
 Location
 -------------------------------------------
 
-The city of La Crau in France is covered, the nadir view of the multispectral is available as download.
+The city of La Crau in France is mentioned, the nadir view of the multispectral is available as download.
 The dataset can be officially download here:
 https://earth.esa.int/eogateway/missions/pleiades/sample-data
 Last checked: 01. March 2026
