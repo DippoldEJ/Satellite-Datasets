@@ -1,7 +1,7 @@
 Introduction and Preprocessing
 -----------------------------------------
 -----------------------------------------
-
+DippoldEJ Satellite Datasets Pleiades Multispectral France
 
 Pléiades 1B is belonging to the European Space Agency (ESA). The Panchromatic band reaches a resolution of 0.5m while the Multispectral bands reaches 2m resolution. 
 As a result, Pléiades is a satellite with very-high resolution (VHR) imagery. 
