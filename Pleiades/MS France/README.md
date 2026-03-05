@@ -15,10 +15,10 @@ Area of Interest (AOI)
 --------------------
 Text
 
-Cat/ Band |Typ| Description|
-|-------| -------| -------| 
-|NIR| img1 | img1 |
-|<img width="378" height="540" alt="Image" src="https://github.com/user-attachments/assets/94ef80b2-0690-4463-baf1-efff895485e6" />| Airfield| abc 
+Cat/ Band | Description|
+|-------| -------|
+| | img1 |
+|<img width="378" height="540" alt="Image" src="https://github.com/user-attachments/assets/94ef80b2-0690-4463-baf1-efff895485e6" />| NIR Airfield abc 
 
 Feature and Edge Detection
 --------------------
