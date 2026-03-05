@@ -13,7 +13,9 @@ Structure: <br />
 
 Area of Interest (AOI)
 --------------------
-Text
+The coverage of the satellite imagery can be examine from the INDEX.HTM file (uploaded). This four points than are show in the map below.
+
+<img width="1422" height="412" alt="Image" src="https://github.com/user-attachments/assets/20e859f9-0744-4099-b5e1-aa8bb04e7623" />
 
 Cat/ Band | Description|
 |-------| -------|
