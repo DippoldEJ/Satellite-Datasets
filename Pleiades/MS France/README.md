@@ -15,7 +15,7 @@ Area of Interest (AOI)
 --------------------
 Text
 
-Cat/Band |Urban| Suburban| Rural| Miscellaneous|
+Cat/ Band |Urban| Suburban| Rural| Miscellaneous|
 |-------| -------| -------| -------| -------|
 |NIR| img1 | img1 | img1 | img1 |
 
