@@ -7,9 +7,10 @@ Structure: <br />
 
 ```mermaid
 graph TD;
-    Pleiades-->MS FRance;
-    Pleiades-->Pan FRance;
-    Pleiades-->Pan Melbourne;
+    Pleiades-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 
 ```
 
