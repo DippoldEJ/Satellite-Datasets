@@ -18,7 +18,9 @@ a[Default]
     h{{Hexagon}}
     i[/Parallelogram/]
     j(((Double Circle)))
+```
 
+```mermaid
 flowchart LR
     Base --> Arrow
     Base ==> Heavy
