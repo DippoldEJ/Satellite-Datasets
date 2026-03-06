@@ -45,7 +45,7 @@ subgraph Satellite
     end
 
 subgraph Keys of Methodology
-    c[fa:fa-code AOI]
+    c[fa:fa-code AOI,Features,Edges]
     end
 
     s==>db
