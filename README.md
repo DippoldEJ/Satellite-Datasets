@@ -63,6 +63,7 @@ flowchart LR;
 flowchart LR;
 
 subgraph Satellite
+    s[fa:fa-code Pleiades]
     end
 
 ```
