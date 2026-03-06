@@ -38,7 +38,7 @@ a[Default]
 ```
 
 ```mermaid
-flowchart LR
+graph TD;
     subgraph Azure
         s[fa:fa-code Server]
         db[(fa:fa-table Database)]
