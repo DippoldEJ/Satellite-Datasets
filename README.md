@@ -7,8 +7,8 @@ Structure: <br />
 
 ```mermaid
 graph TD;
-    Pleiades-->MS-France;
-    Pleiades-->C;
+    Pleiades-->MS-->France;
+    Pleiades-->PAN;
     B-->D;
     C-->D;
 
