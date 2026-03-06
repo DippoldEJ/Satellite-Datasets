@@ -42,7 +42,7 @@ subgraph Satellite
         p[PAN = Panchromatic]
     end
 
-    s-->db
+    s==>db
     db-->m
     db-->p
 
