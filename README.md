@@ -52,6 +52,11 @@ graph TD;
     subgraph Azure
         direction LR
     end
+
+   c -- HTTP GET --> s
+    s -- SQL Query --> db
+    db -. Result Set .-> s
+    s -. JSON .-> c
 ```
 
 Pleiades
