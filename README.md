@@ -5,8 +5,6 @@
 
 Structure: <br />
 
-ere is a simple flow chart:
-
 ```mermaid
 graph TD;
     A-->B;
