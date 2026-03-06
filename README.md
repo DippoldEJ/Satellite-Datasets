@@ -34,6 +34,7 @@ flowchart LR;
 
 subgraph Satellite
     s[fa:fa-code Pleiades]
+    a[fa:fa-code Landsat]
     end
 
  subgraph Imagery
