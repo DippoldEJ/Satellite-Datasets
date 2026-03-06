@@ -36,7 +36,7 @@ subgraph Satellite
     s[fa:fa-code Pleiades]
     end
 
- subgraph Data
+ subgraph Imagery
         db[(fa:fa-table MS + PAN)]
         m[MS = Multispectral]
         p[PAN = Panchromatic]
