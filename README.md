@@ -7,29 +7,6 @@ DippoldEJ Satellite Datasets Pleiades Multispectral Panchromatic France Melbourn
 Structure: <br />
 
 ```mermaid
-graph TD;
-a[Default]
-    b([Rounded])
-    c[(Database)]
-    d[[Subroutine]]
-    e((Circle))
-    f>Note]
-    g{Decision}
-    h{{Hexagon}}
-    i[/Parallelogram/]
-    j(((Double Circle)))
-```
-
-```mermaid
-flowchart LR
-    Base --> Arrow
-    Base ==> Heavy
-    Base -.-> Dotted
-    Base --- Line
-    Base --> You --> Can --> Chain --> Relations --> On --> One --- Line
-```
-
-```mermaid
 flowchart LR;
 
 subgraph Satellite
