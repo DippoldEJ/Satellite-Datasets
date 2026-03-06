@@ -45,14 +45,14 @@ subgraph Satellite
     end
 
 subgraph Keys of Methodology
-
+    c[fa:fa-code AOI]
     end
 
     s==>db
     db-->m
     db-->p
     m-->b
-
+    b==>c
 ```
 
 Pleiades
