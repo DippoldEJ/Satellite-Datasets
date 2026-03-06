@@ -16,6 +16,7 @@ graph TD;
 ```
 
 ```mermaid
+flowchart LR;
 A(["Start"]);
 A-->B{Decision};
 B-->C["Option A"];
