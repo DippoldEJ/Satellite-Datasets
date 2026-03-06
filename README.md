@@ -70,6 +70,8 @@ subgraph Satellite
         db[(fa:fa-table MS + PAN)]
     end
 
+    s-->db
+
 ```
 
 Pleiades
