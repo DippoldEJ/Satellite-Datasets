@@ -44,6 +44,10 @@ subgraph Satellite
         b([Red,Green,Blue,NIR])
     end
 
+subgraph Keys of Methodology
+
+    end
+
     s==>db
     db-->m
     db-->p
