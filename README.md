@@ -18,8 +18,14 @@ a[Default]
     h{{Hexagon}}
     i[/Parallelogram/]
     j(((Double Circle)))
-```
 
+flowchart LR
+    Base --> Arrow
+    Base ==> Heavy
+    Base -.-> Dotted
+    Base --- Line
+    Base --> You --> Can --> Chain --> Relations --> On --> One --- Line
+```
 
 ```mermaid
 flowchart LR;
