@@ -41,11 +41,13 @@ subgraph Satellite
         db[(fa:fa-table MS + PAN)]
         m[MS = Multispectral]
         p[PAN = Panchromatic]
+        b([Red,Green,Blue,Nir])
     end
 
     s==>db
     db-->m
     db-->p
+    m-->b
 
 ```
 
