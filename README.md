@@ -8,23 +8,6 @@ Structure: <br />
 
 ```mermaid
 graph TD;
-
-    Pleiades-->MS-->France;
-    Pleiades-->PAN-->France;
-    PAN-->Melbourne;
-
-```
-
-```mermaid
-flowchart LR;
-A(["Start"]);
-A-->B{Decision};
-B-->C["Option A"];
-B-->D["OptionB"];
-```
-
-```mermaid
-graph TD;
 a[Default]
     b([Rounded])
     c[(Database)]
@@ -68,8 +51,8 @@ subgraph Satellite
 
  subgraph Data
         db[(fa:fa-table MS + PAN)]
-        m[Multispectral]
-        p[Panchromatic]
+        m[MS = Multispectral]
+        p[PAN = Panchromatic]
     end
 
     s-->db
