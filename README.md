@@ -2,7 +2,7 @@ Satellite-Datasets Overview
 -------------------------
 -------------------------
 DippoldEJ Satellite Datasets Pleiades Multispectral France Panchromatic Melbourne
-Methodology: Area of Interest (AOI), Features, Edges & Corners
+Methodology: Area of Interest (AOI), Features (Points, Edges, Corners)
 
 
 Structure: <br />
@@ -23,7 +23,7 @@ subgraph Satellite
     end
 
 subgraph Keys of Methodology
-    c[fa:fa-code AOI,Features,Edges]
+    c[fa:fa-code AOI,Features]
     end
 
     s==>db
