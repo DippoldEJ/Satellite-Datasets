@@ -16,10 +16,10 @@ graph TD;
 ```
 
 ```mermaid
-A(["Start"])
-A -->B{Decision}
-B -->C["Option A"]
-B -->D["OptionB"]
+A(["Start"]);
+A -->B{Decision};
+B -->C["Option A"];
+B -->D["OptionB"];
 ```
 
 
