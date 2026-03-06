@@ -8,7 +8,7 @@ Structure: <br />
 ```mermaid
 graph TD;
     Pleiades-->B;
-    A-->C;
+    Pleiades-->C;
     B-->D;
     C-->D;
 
