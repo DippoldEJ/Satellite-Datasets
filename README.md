@@ -7,7 +7,6 @@ DippoldEJ Satellite Datasets Pleiades Multispectral Panchromatic France Melbourn
 Structure: <br />
 
 ```mermaid
-
     Pleiades-->MS-->France;
     Pleiades-->PAN-->France;
     PAN-->Melbourne;
