@@ -38,7 +38,7 @@ a[Default]
 ```
 
 ```mermaid
-flowchart LR
+flowchart LR;
     subgraph Azure
         s[fa:fa-code Server]
         db[(fa:fa-table Database)]
@@ -57,6 +57,14 @@ flowchart LR
     s -- SQL Query --> db
     db -. Result Set .-> s
     s -. JSON .-> c
+```
+
+```mermaid
+flowchart LR;
+
+subgraph Satellite
+    end
+
 ```
 
 Pleiades
