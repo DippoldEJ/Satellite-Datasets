@@ -35,6 +35,7 @@ Feature Detection: Point, Edge and Corner
 Text 
 
 | AOI | Canny | FAST| SURF|
+|-------| -------| -------| -------|
 | <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/68bf1c4f-da00-4b11-8586-33aebfc83f98" />  | img | img| img|
 
 
