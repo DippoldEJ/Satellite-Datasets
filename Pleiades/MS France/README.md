@@ -21,11 +21,11 @@ Text
 
 Cat/ Band | Description|
 |-------| -------|
-| <img width="422" height="412" alt="Image" src="https://github.com/user-attachments/assets/94db6771-cfd2-4e85-9244-1cc02bd544a4" />| * Gif sequence: <br /> &ensp; - NIR <br /> &ensp; - red <br /> &ensp; - green <br /> &ensp; - blue <br /> * Airfield <br /> * Base aérienne 701 Salon-de-Provence <br /> 
+| <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/94db6771-cfd2-4e85-9244-1cc02bd544a4" />| * Gif sequence: <br /> &ensp; - NIR <br /> &ensp; - red <br /> &ensp; - green <br /> &ensp; - blue <br /> * Airfield <br /> * Base aérienne 701 Salon-de-Provence <br /> 
 
 Feature and Edge Detection
 --------------------
-Text ![Image](https://github.com/user-attachments/assets/94db6771-cfd2-4e85-9244-1cc02bd544a4)
+Text 
 
 AOI and Composite Images
 -------------------------
