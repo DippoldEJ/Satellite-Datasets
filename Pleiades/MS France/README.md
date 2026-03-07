@@ -17,9 +17,11 @@ The coverage of the satellite imagery can be examine from the INDEX.HTM file (up
 
 <img width="1422" height="412" alt="Image" src="https://github.com/user-attachments/assets/20e859f9-0744-4099-b5e1-aa8bb04e7623" />
 
+<br />
 The bands available are NIR - Near Infrared band, red, green and blue. <br />
-The composite images generated are RGB by concatenating red, green and blue often called true colour. <br />
-Further CIR composite by NIR, red and green, often called Colour Infrared or False Clour image. <br />
+The most commmonly used composite image generated is RGB by concatenating red, green and blue often called true colour. <br />
+Further CIR composite by NIR, red and green, often called Colour Infrared or False Colour image. <br />
+
 
 
 
