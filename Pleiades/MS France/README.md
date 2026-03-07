@@ -36,12 +36,12 @@ Text
 
 | AOI | Canny | FAST| SURF|
 |-------| -------| -------| -------|
-| CIR Rural <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/68bf1c4f-da00-4b11-8586-33aebfc83f98" />  | img | img| img|
+| CIR Rural <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/73c17d2b-84fe-4e7d-a354-75c713f8bd84" />  | img | img| img|
 | RGB Urban <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/e87b16ee-c53f-47ee-9199-6bbc4e8bde30" />  | img | img| img|
 | RGB Industrial <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/3d054f5a-2959-45af-a464-d786384629ba" />  | img | img| img|
 | CIR Open Pit Mine <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/774ca95b-42e3-4ba8-8a20-afd5514f76b3" />  | img | img| img|
 | RGB Waterstream and Streets <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/61fd179c-4f0e-4e56-9376-bcae0eb81986" />  | img | img| img|
-| RGBAirbase <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/c6f17066-3913-43c8-a395-5e43b3ddc9ce" />  | img | img| img|
+| RGBAirbase <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/0617614c-ce98-4bf9-b539-77ba8fda148a" />  | img | img| img|
 
 AOI and Composite Images
 -------------------------
