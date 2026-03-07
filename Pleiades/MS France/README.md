@@ -34,6 +34,10 @@ Feature Detection: Point, Edge and Corner
 --------------------
 Text 
 
+| AOI | Canny | FAST| SURF|
+
+
+
 AOI and Composite Images
 -------------------------
 Text
