@@ -19,9 +19,9 @@ The coverage of the satellite imagery can be examine from the INDEX.HTM file (up
 
 Text
 
-Cat/ Band | Description|
-|-------| -------|
-| <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/94db6771-cfd2-4e85-9244-1cc02bd544a4" />| * Gif sequence: <br /> &ensp; - NIR <br /> &ensp; - red <br /> &ensp; - green <br /> &ensp; - blue <br /> * Airfield <br /> * Base aérienne 701 Salon-de-Provence <br /> 
+| Single Bands | Composite Images| Description|
+|-------| -------|-------|
+| <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/94db6771-cfd2-4e85-9244-1cc02bd544a4" />| text |* Gif sequence 1: <br /> &ensp; - NIR <br /> &ensp; - red <br /> &ensp; - green <br /> &ensp; - blue <br /> * Airfield <br /> * Base aérienne 701 Salon-de-Provence <br /> 
 
 Feature and Edge Detection
 --------------------
