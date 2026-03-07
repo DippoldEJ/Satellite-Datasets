@@ -37,6 +37,7 @@ Text
 | AOI | Canny | FAST| SURF|
 |-------| -------| -------| -------|
 | Title <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/68bf1c4f-da00-4b11-8586-33aebfc83f98" />  | img | img| img|
+| Title <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/e87b16ee-c53f-47ee-9199-6bbc4e8bde30" />  | img | img| img|
 
 
 AOI and Composite Images
