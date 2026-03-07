@@ -21,7 +21,7 @@ Text
 
 Cat/ Band | Description|
 |-------| -------|
-|![Image](https://github.com/user-attachments/assets/94db6771-cfd2-4e85-9244-1cc02bd544a4)| * Gif sequence: <br /> - NIR <br /> &ensp; - red <br /> - green <br /> - blue <br /> * Airfield <br /> * Base aérienne 701 Salon-de-Provence <br /> 
+|![Image](https://github.com/user-attachments/assets/94db6771-cfd2-4e85-9244-1cc02bd544a4)| * Gif sequence: <br /> &ensp; - NIR <br /> &ensp; - red <br /> &ensp; - green <br /> &ensp; - blue <br /> * Airfield <br /> * Base aérienne 701 Salon-de-Provence <br /> 
 
 Feature and Edge Detection
 --------------------
