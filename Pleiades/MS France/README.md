@@ -30,7 +30,7 @@ Finally, BRG composite image generated with blue, gred and green.  <br />
 |-------| -------|-------|
 | <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/94db6771-cfd2-4e85-9244-1cc02bd544a4" />| <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/cbc049c0-f440-4708-9d01-3df7268d2ca0" /> |* Gif sequence 1: <br /> &ensp; - NIR <br /> &ensp; - red <br /> &ensp; - green <br /> &ensp; - blue <br />  <br />* Gif sequence 2: <br /> &ensp; - CIR <br /> &ensp; - RGB <br /> &ensp; - GBR <br /> &ensp; - BRG <br /> <br /> * Airfield <br /> * Base aérienne 701 Salon-de-Provence <br /> 
 
-Feature and Edge Detection
+Feature Detection: Point, Edge and Corner
 --------------------
 Text 
 
