@@ -28,6 +28,6 @@ subgraph Satellite
     m-->b
 ```
 
-Pleiades
+Pleiades 1B
 ------------
 
