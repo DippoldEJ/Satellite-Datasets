@@ -27,7 +27,7 @@ subgraph Satellite
     db-->m
     db-->p
     m-->b
-    db-->c
+    p-->c
 ```
 
 Pleiades 1B
