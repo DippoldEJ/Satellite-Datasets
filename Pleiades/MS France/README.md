@@ -1,5 +1,5 @@
 
-The Application of MS France Dataset for Feature Detection and Study
+The Visualization of MS France Dataset in Preparation for Application 
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
 DippoldEJ Satellite Datasets Pleiades Multispectral France <br />
