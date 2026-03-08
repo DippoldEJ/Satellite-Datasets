@@ -2,14 +2,8 @@
 The Application of MS France Dataset for Feature Detection and Study
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
-DippoldEJ Satellite Datasets Pleiades Multispectral France
-
-Structure: <br />
- * Area of Interest (AOI) <br />
- * Feature and Edge Detection <br />
- * AOI and Composite Images <br />
- * AOI and Edge Detection <br />
- * References <br />
+DippoldEJ Satellite Datasets Pleiades Multispectral France <br />
+<br />
 
 Area of Interest (AOI), Bands and Composite Images 
 --------------------
@@ -30,26 +24,4 @@ Finally, BRG composite image generated with blue, gred and green.  <br />
 |-------| -------|-------|
 | <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/94db6771-cfd2-4e85-9244-1cc02bd544a4" />| <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/cbc049c0-f440-4708-9d01-3df7268d2ca0" /> |* Gif sequence 1: <br /> &ensp; - NIR <br /> &ensp; - red <br /> &ensp; - green <br /> &ensp; - blue <br />  <br />* Gif sequence 2: <br /> &ensp; - CIR <br /> &ensp; - RGB <br /> &ensp; - GBR <br /> &ensp; - BRG <br /> <br /> * Airfield <br /> * Base aérienne 701 Salon-de-Provence <br /> 
 
-Feature Detection: Point, Edge and Corner
---------------------
-Some Areas are in terms of ther intensity adjusted (Matlab, Imadjust). THis can come in handy if the image or band appears too dark for the visual inspection. So That, this cases are mark with an capitilized A.  
 
-| AOI | Canny | FAST| SURF|
-|-------| -------| -------| -------|
-| <p align="center"> CIR Rural <br /> </p> <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/a7923edb-f4d9-4dc1-b620-c8f74847b0dc" />  | img | img| img|
-| A RGB Urban <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/e87b16ee-c53f-47ee-9199-6bbc4e8bde30" />  | img | img| img|
-| A RGB Industrial <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/3d054f5a-2959-45af-a464-d786384629ba" />  | img | img| img|
-| CIR Open Pit Mine <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/9793b90d-eb33-4a12-b7e3-37ad61e2d061" />  | img | img| img|
-| A RGB Waterstream and Streets <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/61fd179c-4f0e-4e56-9376-bcae0eb81986" />  | img | img| img|
-| A RGBAirbase <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/ec284537-4203-46e4-9a71-1b057cb35222" />  | img | img| img|
-
-AOI and Composite Images
--------------------------
-Text
-
-AOI and Edge Detection
--------------------------
-Text
-
-References
-------------------------
