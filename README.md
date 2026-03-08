@@ -22,15 +22,10 @@ subgraph Satellite
         b([Red,Green,Blue,NIR])
     end
 
-subgraph Keys of Methodology
-    c[fa:fa-code AOI,Features]
-    end
-
     s==>db
     db-->m
     db-->p
     m-->b
-    b==>c
 ```
 
 Pleiades
