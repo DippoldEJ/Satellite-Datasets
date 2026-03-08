@@ -20,12 +20,14 @@ subgraph Satellite
         m[MS = Multispectral]
         p[PAN = Panchromatic]
         b([Red,Green,Blue,NIR])
+        c([PAN])
     end
 
     s==>db
     db-->m
     db-->p
     m-->b
+    db-->c
 ```
 
 Pleiades 1B
