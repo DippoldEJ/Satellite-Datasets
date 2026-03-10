@@ -12,7 +12,7 @@ The coverage of the satellite imagery can be examine from the INDEX.HTM file (up
 
 
  <br /> The band available is the very high resolution Nadir view.  <br />
- The dataset can be officially download here: https://earth.esa.int/eogateway/missions/pleiades/sample-data Last checked: 01. March 2026
+ The dataset can be officially download here: https://earth.esa.int/eogateway/missions/pleiades/sample-data Last checked: 01. March 2026  <br />
  <br />
 
 
