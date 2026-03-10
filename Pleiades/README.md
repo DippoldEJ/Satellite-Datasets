@@ -12,7 +12,7 @@ subgraph VHR Satellite Imagery
     b[fa:fa-code PAN Panchromatic]
     end
 
-subgraph VHR 
+subgraph  
     c[fa:fa-code MS France]
     d[fa:fa-code PAN France]
     e[fa:fa-code PAN Melbourne]
