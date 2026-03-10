@@ -17,6 +17,7 @@ The most commmonly used composite image generated is RGB by concatenating red, g
 Further, CIR composite with NIR, red and green, often called Colour Infrared or False Colour image.
 Furthermore, GBR composite image generated with green, blue and red.
 Finally, BRG composite image generated with blue, gred and green.  <br />
+The dataset can be officially download here: https://earth.esa.int/eogateway/missions/pleiades/sample-data Last checked: 01. March 2026
  <br />
 
 
