@@ -22,7 +22,7 @@ subgraph
     Line 2
     Line 3`"]
 
-    a --> f
+    c --> f
 a --> c
 b --> d
 b --> e
