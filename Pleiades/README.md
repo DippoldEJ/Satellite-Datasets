@@ -18,6 +18,11 @@ subgraph
     e[fa:fa-code PAN Melbourne]
     end
 
+    f["`Line1
+    Line 2
+    Line 3`"]
+
+    a --> f
 a --> c
 b --> d
 b --> e
