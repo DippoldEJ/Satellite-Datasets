@@ -12,4 +12,11 @@ subgraph VHR Satellite Imagery
     b[fa:fa-code PAN Panchromatic]
     end
 
+subgraph VHR Dimension
+    c[fa:fa-code MS]
+    d[fa:fa-code PAN ]
+    end
+
+a --> c
+b --> d
 ```
