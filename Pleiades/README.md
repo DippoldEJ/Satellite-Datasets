@@ -18,12 +18,15 @@ subgraph
     e[fa:fa-code PAN Melbourne]
     end
 
-    f["`Line1
-    Line 2
-    Line 3`"]
+subgraph  
+    f["`Dimemsion: 
+    View: 
+    text"]
+end
 
-    c --> f
+c --> f
 a --> c
 b --> d
 b --> e
+
 ```
