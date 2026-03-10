@@ -13,10 +13,11 @@ subgraph VHR Satellite Imagery
     end
 
 subgraph VHR Dimension
-    c[fa:fa-code MS]
-    d[fa:fa-code PAN ]
+    c[fa:fa-code MS France]
+    d[fa:fa-code PAN France]
+    e[fa:fa-code PAN Melbourne]
     end
 
 a --> c
-b --> d
+b --> e
 ```
