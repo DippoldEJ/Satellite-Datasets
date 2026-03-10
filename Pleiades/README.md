@@ -19,7 +19,7 @@ subgraph
     end
 
 subgraph  
-    f["`Dimemsion
+    f["`Dimension
     View
     text`"]
 end
