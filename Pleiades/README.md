@@ -19,5 +19,6 @@ subgraph VHR Dimension
     end
 
 a --> c
+b --> d
 b --> e
 ```
