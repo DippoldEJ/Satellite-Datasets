@@ -22,7 +22,7 @@ subgraph
     f["`Dimension: 5555 x 5039 x 4
     View: Backward 
     Depth: 16-bit
-    Type: U-int
+    Type: U-Int
     File: JP2`"]
 end
 
@@ -30,7 +30,7 @@ subgraph
     g["`Dimension: 22'200 x 20'152 x 4
     View: Backward
     Depth: 16-bit
-    Type: U-int
+    Type: U-Int
     File: JP2`"]
 end
 
