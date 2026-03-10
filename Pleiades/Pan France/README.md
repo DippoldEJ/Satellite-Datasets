@@ -11,15 +11,11 @@ The coverage of the satellite imagery can be examine from the INDEX.HTM file (up
 <img width="1422" height="412" alt="Image" src="" />
 
 
- <br /> The bands available are NIR - Near Infrared band, red, green and blue. <br />
-The most commmonly used composite image generated is RGB by concatenating red, green and blue often called true colour.
-Further, CIR composite with NIR, red and green, often called Colour Infrared or False Colour image.
-Furthermore, GBR composite image generated with green, blue and red.
-Finally, BRG composite image generated with blue, gred and green.  <br />
+ <br /> The band available is the very high resolution Nadir view. 
  <br />
 
 
-| Single Bands | Composite Images|
+| Nadir View | Nadir View Enhanced|
 |-------| -------|
 | <img width="400" height="400" alt="Image" src="" />| <img width="400" height="400" alt="Image" src="" /> |
 
