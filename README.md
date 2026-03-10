@@ -38,6 +38,9 @@ Pléiades 1B is belonging to the European Space Agency (ESA). The Panchromatic b
 The images are captured as tristereo, as show in Figure 1. In addition, the determination of the direction of each image can be found out based on the incidence angle.<br />
 <img width="118" height="142" alt="Image" src="https://github.com/user-attachments/assets/e9ca37fc-ba94-4f1c-9916-aaf2176f2e65" /> 
 
-Figure 1: Pléiades Panchromatic tristereo. The images are captured in pairs, so that they overlap. This is an advantage especially in the city where the likelihood of building canyons is likely, as shown in the figure above (Panagiotakis et al., 2018).
+Figure 1: Pléiades Panchromatic tristereo. The images are captured in pairs, so that they overlap. This is an advantage especially in the city where the likelihood of building canyons is likely, as shown in the figure above (Panagiotakis et al., 2018).  <br />
 
+References
+-----------
+Panagiotakis, E., Chrysoulakis, N., Charalampopoulou, V., Poursanidis, D., 2018. Validation of Pleiades Tri-Stereo DSM in Urban Areas. International Journal of Geo-Information 7.
 
