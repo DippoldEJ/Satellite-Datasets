@@ -19,9 +19,9 @@ subgraph
     end
 
 subgraph  
-    f["`Dimemsion: 
-    View: 
-    text"]
+    f["`Dimemsion
+    View
+    text`"]
 end
 
 c --> f
