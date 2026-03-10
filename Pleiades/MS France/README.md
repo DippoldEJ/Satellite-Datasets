@@ -16,7 +16,7 @@ The coverage of the satellite imagery can be examine from the INDEX.HTM file (up
 The most commmonly used composite image generated is RGB by concatenating red, green and blue often called true colour.
 Further, CIR composite with NIR, red and green, often called Colour Infrared or False Colour image.
 Furthermore, GBR composite image generated with green, blue and red.
-Finally, BRG composite image generated with blue, gred and green.  <br />
+Finally, BRG composite image generated with blue, gred and green.  <br />  <br />
 The dataset can be officially download here: https://earth.esa.int/eogateway/missions/pleiades/sample-data Last checked: 01. March 2026  <br />
  <br />
 
