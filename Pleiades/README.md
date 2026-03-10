@@ -15,7 +15,7 @@ subgraph VHR Satellite Imagery
 subgraph  
     c[fa:fa-code MS France]
     d[fa:fa-code PAN France]
-    e[fa:fa-code PAN Melbourne]
+
     end
 
 subgraph  
@@ -37,7 +37,7 @@ end
 c --> f
 a --> c
 b --> d
-b --> e
+
 d --> g
 
 ```
