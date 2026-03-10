@@ -2,7 +2,7 @@
 Single View very-high Resolution Satellite Imagery Overview
 ------------------------------------------------------------
 ------------------------------------------------------------
-DippoldEJ Satellite Datasets Pleiades Multispectral France Panchromatic Melbourne very-high Resolution (VHR)  <br />
+DippoldEJ Satellite Datasets Pleiades Multispectral France Panchromatic  very-high Resolution (VHR)  <br />
 
 ```mermaid
 flowchart TD;
