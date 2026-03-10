@@ -19,9 +19,11 @@ subgraph
     end
 
 subgraph  
-    f["`Dimension
-    View
-    text`"]
+    f["`Dimension: 5555 x 5039 x 4
+    View: Nadir
+    Depth: 16 bit
+    Type: u-int
+    File: JP2`"]
 end
 
 c --> f
