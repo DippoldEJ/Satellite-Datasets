@@ -26,6 +26,14 @@ subgraph
     File: JP2`"]
 end
 
+subgraph  
+    g["`Dimension: 22'200 x 20'152 x 4
+    View: Nadir
+    Depth: 16 bit
+    Type: u-int
+    File: JP2`"]
+end
+
 c --> f
 a --> c
 b --> d
