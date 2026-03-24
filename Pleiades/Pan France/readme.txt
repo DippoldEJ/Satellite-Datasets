@@ -1,4 +1,3 @@
-
 The Visualization of PAN France Dataset in Preparation for Application 
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
@@ -17,7 +16,7 @@ The coverage of the satellite imagery can be examine from the INDEX.HTM file (up
  <br />
 
 
-| Nadir View | Nadir View Enhanced|
+| Backward View | Backward View Enhanced|
 |-------| -------|
 | <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/859b5cd7-03da-46ea-b574-8341594a88ac" />| <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/60083f88-83cf-4eb0-a43c-093caaa18570" /> |
 
