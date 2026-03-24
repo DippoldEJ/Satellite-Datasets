@@ -51,5 +51,4 @@ RGB = (red/green/blue) and CIR  = (NIR/red/green)
 
 | NIR      | Red      | Green      | Blue      |
 |------------|-------------|------------|-------------|
-|<img width="448" height="499" alt="Image" src="https://github.com/user-attachments/assets/2c7196bd-54e3-492e-9cd4-68fc2143047a" />| <img width="448" height="499" alt="Image" src="https://github.com/user-attachments/assets/867dfce6-90ff-4e3c-a7e0-65402db9fe1f" /> |<img width="433" height="482" alt="Image" src="https://github.com/user-attachments/assets/8622da2e-588c-4758-820a-4d245e5b8631" /> |<img width="448" height="499" alt="image" src="https://github.com/user-attachments/assets/158e511c-8354-49c6-b279-1dbe208696b6" />
-|
+|<img width="448" height="499" alt="Image" src="https://github.com/user-attachments/assets/2c7196bd-54e3-492e-9cd4-68fc2143047a" />| <img width="448" height="499" alt="Image" src="https://github.com/user-attachments/assets/867dfce6-90ff-4e3c-a7e0-65402db9fe1f" /> |<img width="433" height="482" alt="Image" src="https://github.com/user-attachments/assets/8622da2e-588c-4758-820a-4d245e5b8631" /> |<img width="448" height="499" alt="image" src="https://github.com/user-attachments/assets/158e511c-8354-49c6-b279-1dbe208696b6" />|
