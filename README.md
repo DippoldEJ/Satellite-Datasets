@@ -10,12 +10,12 @@ Structure: <br />
 ```mermaid
 flowchart LR;
 
-subgraph Satellite
+subgraph e[(Satellite0}
     s[fa:fa-code Pleiades]
-    a[fa:fa-code Landsat]
+    a[fa:fa-code Pleiades Neo]
     end
 
- subgraph Imagery
+ subgraph f[(Imagery)]
         db[(fa:fa-table MS + PAN)]
         m[MS = Multispectral]
         p[PAN = Panchromatic]
