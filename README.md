@@ -17,6 +17,7 @@ direction LR
     end
 
  subgraph f[Imagery]
+        direction LR
         db[(fa:fa-table MS + PAN)]
         m[MS = Multispectral]
         p[PAN = Panchromatic]
