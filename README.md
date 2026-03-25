@@ -10,7 +10,7 @@ Structure: <br />
 ```mermaid
 flowchart LR;
 
-subgraph e[(Satellite0}
+subgraph e[(Satellite)]
     s[fa:fa-code Pleiades]
     a[fa:fa-code Pleiades Neo]
     end
