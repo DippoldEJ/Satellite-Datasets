@@ -11,6 +11,7 @@ Structure: <br />
 flowchart LR;
 
 subgraph e[Satellite]
+direction LR
     s[fa:fa-code Pleiades]
     a[fa:fa-code Pleiades Neo]
     end
