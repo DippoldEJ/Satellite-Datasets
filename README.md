@@ -43,6 +43,12 @@ The images are captured as tristereo, as show in Figure 1. In addition, the dete
 
 Figure 1: Pléiades Panchromatic tristereo. The images are captured in pairs, so that they overlap. This is an advantage especially in the city where the likelihood of building canyons is likely, as shown in the figure above (Panagiotakis et al., 2018).  <br />
 
+Pleiades Neo
+------------
+
+Text
+
+ <br />
 References
 -----------
 Panagiotakis, E., Chrysoulakis, N., Charalampopoulou, V., Poursanidis, D., 2018. Validation of Pleiades Tri-Stereo DSM in Urban Areas. International Journal of Geo-Information 7.
