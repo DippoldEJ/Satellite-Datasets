@@ -23,7 +23,7 @@ subgraph e[Satellite]
         c([PAN])
     end
 
-    s==>db
+    e==>f
     db-->m
     db-->p
     m-->b
