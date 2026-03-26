@@ -46,7 +46,7 @@ Figure 1: Pléiades Panchromatic tristereo. The images are captured in pairs, so
 Pleiades Neo
 ------------
 
-Text
+Pléiades NEO is belonging to the European Space Agency (ESA). The Panchromatic band reaches a resolution of 0.3m. The Multispectral bands reaches a resolution of 1.2m and includes the RGB bands - red, green and blue, as well as NED bands - NIR, red edge and deep blue. 
 
  <br />
 References
