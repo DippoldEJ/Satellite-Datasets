@@ -2,7 +2,7 @@
 
 <br />
 DippoldEJ Satellite Datasets Pleiades NEO Multispectral Panchromatic France<br />
-Methodology: Area covered, MS & PAN comparision
+
 <br />
 
 Coverage Pleiades NEO - PAN and MS
