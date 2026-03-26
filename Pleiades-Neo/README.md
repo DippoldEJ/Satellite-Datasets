@@ -5,7 +5,7 @@ DippoldEJ Satellite Datasets Pleiades NEO Multispectral Panchromatic France<br /
 Methodology: Area covered, MS & PAN comparision
 <br />
 
-Coverage
+Coverage Pleiades NEO - PAN and MS
 --------------
 
 
@@ -15,3 +15,4 @@ Dowloaded: https://earth.esa.int/eogateway/missions/pleiades-neo/sample-data
 Last checked: 25. March 2026
 <br />
 
+<img width="1422" height="401" alt="Image" src="https://github.com/user-attachments/assets/4b72ebe7-5af4-4082-a36d-643b4715f520" />
